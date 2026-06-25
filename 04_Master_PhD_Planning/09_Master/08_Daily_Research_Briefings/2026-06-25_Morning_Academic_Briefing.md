@@ -1,4 +1,4 @@
-# Daily Research Briefing — 2026-06-25
+# Morning Academic Briefing — 2026-06-25
 
 ## Monitoring scope (Layer 3)
 Each daily briefing only checks for *changes* since the last briefing — it does not rewrite prior research from scratch. Checklist:
