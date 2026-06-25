@@ -25,6 +25,8 @@ See `2026-06-25_Faculty_Research_Map.md` in this folder for current findings (5 
 
 Likewise, `2026-06-25_Official_Program_Requirements.md` has a companion `2026-06-25_Official_Program_Requirements_VISUAL_REVIEW.md` for quick reading.
 
+A third, Obsidian-friendly view of the same verified facts lives in `Faculty_Literature_Vault/` — linked notes (professors, publications, themes, and the Parkdale Parent Resources Project) connected with `[[wiki links]]`, for use as a graph in Obsidian. See `Faculty_Literature_Vault/README.md` for the collection policy (stage 1: 5–8 representative works per professor; stage 2: full 5–10 year lists only for high-match professors; stage 3: narrow to citable concepts at application time).
+
 ## 7. Risks or Uncertainty
 Needs official verification.
 
