@@ -19,6 +19,15 @@ Goal: before researching individual professors and their papers, first build a b
 - `YYYY-MM-DD_Faculty_Research_Map.md` — relevant faculty and their research areas (Layer 2)
 - `YYYY-MM-DD_Jiecheng_Fit_Analysis.md` — evidence-based fit analysis built only from that school's Official_Program_Requirements.md and Faculty_Research_Map.md (fit level, best-fit programs, faculty alignment, strengths, risks, missing information, next action — no invented eligibility claims)
 
+## Dual-file system (standing convention)
+
+Every Layer 1 (`Official_Program_Requirements.md`) and Layer 2 (`Faculty_Research_Map.md`) document gets a reader-friendly companion file alongside the full version:
+
+- Full version: `YYYY-MM-DD_Official_Program_Requirements.md` / `YYYY-MM-DD_Faculty_Research_Map.md` — use this one for sourcing, citations, and exact wording.
+- Visual review version: `YYYY-MM-DD_Official_Program_Requirements_VISUAL_REVIEW.md` / `YYYY-MM-DD_Faculty_Research_Map_VISUAL_REVIEW.md` — one-page summary table + priority ranking + short visual cards (Why this matters / Risk / Next action), no long paragraphs, no code-style formatting. For quick reading only — never the source of truth.
+
+Apply this to every school going forward, not just UBC. The VISUAL_REVIEW file never replaces or removes the full version.
+
 ## Layer 4: Faculty Literature Notes (per-school, as needed)
 
 For schools where deeper reading is warranted, a `Faculty_Literature_Notes/` subfolder holds single-professor, single-publication reading notes that go beyond the Layer 2 summary — at most 2–3 new notes per week, one professor per note, plus a `Weekly_Summary/` rollup. See `01_UBC/Faculty_Literature_Notes/README.md` for the cadence rule. Do not run this for every school at once — only for whichever school currently needs deeper faculty reading.
