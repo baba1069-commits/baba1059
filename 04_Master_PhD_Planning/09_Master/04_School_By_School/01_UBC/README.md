@@ -1,14 +1,30 @@
-# University of British Columbia (UBC)
+## 1. School Name
+University of British Columbia (UBC)
 
-**Status:** Not started
-**Program(s) of interest:** TBD
-**Last updated:** 2026-06-25
+## 2. Possible Relevant Master's Programs
+Needs official verification.
 
-## Quick links
-- Program page: TBD
-- Faculty list page: TBD
+## 3. Why This School May Fit Jiecheng
+Needs official verification.
 
-## Files in this folder
-- `2026-06-25_Official_Program_Requirements.md`
-- `2026-06-25_Faculty_Research_Map.md`
-- `2026-06-25_Jiecheng_Fit_Analysis.md`
+## 4. Official Admission Requirement Source Needed
+Needs official verification. To be filled in `YYYY-MM-DD_Official_Program_Requirements.md` in this folder, using only the official program page as the source.
+
+## 5. Faculty Research Areas to Investigate
+- Early Childhood Education
+- Child Development
+- Inclusive Education
+- Counselling / Mental Health / Family Studies
+- Indigenous Education
+- LGBTQ+ family resources
+- Immigrant children and families
+- ECE leadership and curriculum design
+
+## 6. Possible Professors to Research Later
+Needs official verification. See `YYYY-MM-DD_Faculty_Research_Map.md` in this folder for in-progress findings (sourced only from official faculty pages).
+
+## 7. Risks or Uncertainty
+Needs official verification.
+
+## 8. Next Action
+Confirm official admission requirements from the program's official page (Layer 1), then verify faculty research areas and current supervision status via the official faculty directory (Layer 2).
