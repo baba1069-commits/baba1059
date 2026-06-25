@@ -3,40 +3,50 @@
 Student Intern: Jiecheng Yang, RECE
 Course: Solutions Project / Internship
 
-## Purpose
+## Project purpose
 
-This package collects, organizes, and summarizes publicly available LGBTQ+ and Indigenous-related family resources for **supervisor (Anna) review only**. Nothing in this package has been approved, printed, or placed in the Parkdale Parent Resources area yet.
-
-## What this package is NOT
-
-- This is not a finished display.
-- This is not a record of completed printing.
-- This is not a source of confidential child, family, or staff information.
-
-## What was actually done (Week 8, Day 3 — working from home)
-
-Collected, screened, and organized online resources from official/professional Canadian organizations (Egale Canada, Rainbow Health Ontario, First Nations Child & Family Caring Society) into a review package, to be sent to Anna for review. Printing and placement in the parent resource area will only happen after Anna's approval.
+This package collects, organizes, and summarizes publicly available LGBTQ+ and Indigenous-related family resources — plus a wish list for second-hand bookstore browsing — for **supervisor (Anna) review only**. It is a resource curation and communication project, not a display. Nothing in this package has been approved, printed, or placed in the Parkdale Parent Resources area yet.
 
 ## Folder structure
 
-- `01_LGBTQ_Family_Inclusion/` — resource summaries for LGBTQ+ / 2SLGBTQIA+ family inclusion and gender diversity
-- `02_Indigenous_Family_Resources/` — resource summaries for Indigenous children/families and reconciliation
-- `03_Print_Selected_Pages_For_Anna_Review/` — empty until Anna selects/approves specific pages to print
+- `01_LGBTQ_Family_Inclusion/` — resource summaries for LGBTQ+ / 2SLGBTQIA+ family inclusion and gender diversity (suggested only, not yet approved)
+- `02_Indigenous_Family_Resources/` — resource summaries for Indigenous children/families and reconciliation (suggested only, not yet approved)
+- `03_Print_Selected_Pages_For_Anna_Review/` — empty; only Anna's selected pages go here, after her review
 - `04_Source_List_and_Notes/` — consolidated source list with verification notes
-- `05_Final_Supervisor_Approval_Evidence/` — empty until Anna provides approval (e.g., email reply, sign-off note)
+- `05_Final_Supervisor_Approval_Evidence/` — empty; only filled once Anna's approval is documented
 
 ## Top-level files
 
-- `Resource_Review_Table.md` — one-table comparison of all collected resources
-- `Anna_Review_Email_Draft.md` — draft email requesting Anna's review
+- `Resource_Review_Table.md` — one-table comparison of all collected resources, for review
+- `Second_Hand_Bookstore_Wish_List.md` — book-hunting guide based on Anna's verbal idea (Tuesday), organized by category, for her reference and feedback
+- `Anna_Review_Email_Draft.md` — short draft email requesting Anna's review
 - `Project_Rationale_One_Page.md` — one-page rationale for the project
 - `Print_Selection_Checklist.md` — checklist to apply before printing/displaying anything
 
-## Approval workflow
+## Current status
 
-1. Resources collected and summarized here (this step).
-2. Send `Anna_Review_Email_Draft.md` (or equivalent) to Anna.
-3. Anna reviews and selects which resources, if any, may be printed.
-4. Approved pages go into `03_Print_Selected_Pages_For_Anna_Review/`.
-5. Evidence of approval goes into `05_Final_Supervisor_Approval_Evidence/`.
-6. Only after that, materials are placed in the Parkdale Parent Resources area.
+- All online resources have been collected, screened, and summarized.
+- The second-hand bookstore wish list has been drafted from Anna's idea, not yet acted on.
+- Nothing has been sent for review, approved, printed, or placed in the parent resource area yet.
+
+## What needs Anna's review
+
+- Every resource summary in `01_LGBTQ_Family_Inclusion/` and `02_Indigenous_Family_Resources/`
+- The full `Resource_Review_Table.md`
+- The `Second_Hand_Bookstore_Wish_List.md` categories and keywords, to confirm they match what she had in mind
+- Which, if any, items should move toward printing or bookstore searching
+
+## What should NOT be printed yet
+
+- Nothing in `01_LGBTQ_Family_Inclusion/` or `02_Indigenous_Family_Resources/` should be printed.
+- No books should be purchased from the wish list yet.
+- `03_Print_Selected_Pages_For_Anna_Review/` must stay empty until Anna has actually selected something.
+- Nothing should be placed in the Parkdale Parent Resources area.
+
+## Next steps after Anna's approval
+
+1. Anna reviews `Resource_Review_Table.md`, the individual resource summaries, and `Second_Hand_Bookstore_Wish_List.md`.
+2. Anna indicates which resources (if any) may be printed, and which book categories are worth pursuing.
+3. Approved pages are added to `03_Print_Selected_Pages_For_Anna_Review/`.
+4. A record of Anna's approval is added to `05_Final_Supervisor_Approval_Evidence/`.
+5. Only after that, materials are printed and placed in the Parkdale Parent Resources area, or books are sourced from second-hand stores.
