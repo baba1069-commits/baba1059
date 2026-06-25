@@ -19,6 +19,10 @@ Goal: before researching individual professors and their papers, first build a b
 - `YYYY-MM-DD_Faculty_Research_Map.md` — relevant faculty and their research areas (Layer 2)
 - `YYYY-MM-DD_Jiecheng_Fit_Analysis.md` — evidence-based fit analysis built only from that school's Official_Program_Requirements.md and Faculty_Research_Map.md (fit level, best-fit programs, faculty alignment, strengths, risks, missing information, next action — no invented eligibility claims)
 
+## Layer 4: Faculty Literature Notes (per-school, as needed)
+
+For schools where deeper reading is warranted, a `Faculty_Literature_Notes/` subfolder holds single-professor, single-publication reading notes that go beyond the Layer 2 summary — at most 2–3 new notes per week, one professor per note, plus a `Weekly_Summary/` rollup. See `01_UBC/Faculty_Literature_Notes/README.md` for the cadence rule. Do not run this for every school at once — only for whichever school currently needs deeper faculty reading.
+
 ## Cross-school summary
 
 - `YYYY-MM-DD_Seven_School_Fit_Matrix.md` — single table comparing all 7 schools side by side (best program, fit level, key strength, key risk, professor alignment, next action). Update this with a new dated file whenever a Daily Briefing confirms a change that affects a row — do not silently overwrite the existing matrix.

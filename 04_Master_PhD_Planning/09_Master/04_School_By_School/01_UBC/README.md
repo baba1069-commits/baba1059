@@ -21,7 +21,7 @@ Needs official verification. To be filled in `YYYY-MM-DD_Official_Program_Requir
 - ECE leadership and curriculum design
 
 ## 6. Possible Professors to Research Later
-Needs official verification. See `YYYY-MM-DD_Faculty_Research_Map.md` in this folder for in-progress findings (sourced only from official faculty pages).
+See `2026-06-25_Faculty_Research_Map.md` in this folder for current findings (5 professors, sourced only from official/academic pages). Deeper single-professor reading notes (2–3 times/week, one professor at a time) are in `Faculty_Literature_Notes/`, with a weekly rollup in `Faculty_Literature_Notes/Weekly_Summary/`.
 
 ## 7. Risks or Uncertainty
 Needs official verification.
