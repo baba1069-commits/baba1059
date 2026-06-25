@@ -6,37 +6,43 @@
 **Medium**
 
 ## 2. Best-fit programs
-- **MA in School and Applied Child Psychology (SACP)** — clearest, most concrete program: defined deadline (Dec 1), defined reference-letter count (3), defined SOP structure (3 parts). However, the **MEd stream of SACP is reported paused for 2026-27** due to a BC licensure regulation change — only the MA stream is confirmed open.
-- **MEd/MA in Early Childhood Education** — name-matches Jiecheng's core ECE interest directly, but most admin fields (deadline, language score, funding) are still "Needs official verification."
+- **MEd/MA in Early Childhood Education** — name-matches Jiecheng's core ECE interest directly, and is now the program with the strongest faculty signal (Berger and Ford are both core ECED-program faculty; Keenan is in the same department, Curriculum and Pedagogy). Most admin fields (deadline, language score, funding) are still "Needs official verification."
+- **MA in School and Applied Child Psychology (SACP)** — most procedurally well-documented program: defined deadline (Dec 1), defined reference-letter count (3), defined SOP structure (3 parts). However, the **MEd stream of SACP is reported paused for 2026-27** due to a BC licensure regulation change — only the MA stream is confirmed open, and Kassan/Ford's match is strongest through this program.
 
 ## 3. Faculty/research alignment
-4 of 8 target categories have an identified UBC professor:
-- Child Development + Immigrant families: Dr. Laurie Ford
-- Counselling/Mental Health + Immigrant families: Dr. Anusha Kassan
-- Indigenous Education: Dr. Jan Hare (Associate Dean; CRC Tier 1)
-- Inclusive/Special Education: Dr. Joanna Cannon
-No UBC professor was found this round for ECE leadership/curriculum design or LGBTQ+ family resources as a standalone focus (see Coverage gaps in the Faculty Research Map).
+5 professors identified across 4 of the 5 target categories (see Faculty_Research_Map.md "Category coverage at a glance" table):
+- Early Childhood Education: Dr. Iris Berger, Dr. Laurie Ford
+- Child Development: Dr. Laurie Ford
+- Counselling/Family/Mental Health: Dr. Anusha Kassan
+- Indigenous education / LGBTQ+ family resources / immigrant families: Dr. Jan Hare (Indigenous; CRC Tier 1), Dr. Harper Keenan (LGBTQ+/gender & sexuality in early schooling), Dr. Kassan and Dr. Ford (immigrant families)
+- **Inclusive Education: no confirmed UBC match this round** (see Coverage gaps in Faculty Research Map).
+
+Notably, **Dr. Hare (Indigenous) and Dr. Keenan (LGBTQ+/gender & sexuality)** are the closest topical matches found across all 7 schools so far to Jiecheng's actual internship work on the Parkdale Parent Resources Project, which curated both Indigenous and LGBTQ+ family resources side by side.
 
 ## 4. Strengths for Jiecheng
-- SACP is one of the most procedurally well-documented programs across all 7 schools (clear deadline, clear reference process, no GRE).
-- Faculty matches span 4 distinct categories, including two centrally relevant ones (Child Development, Counselling/Immigrant family).
+- Direct ECE-program faculty match (Berger, Ford) strengthens the MEd/MA Early Childhood Education program specifically, not just SACP.
+- Two professors (Hare, Keenan) closely mirror the two specific topic areas — Indigenous and LGBTQ+ family resources — that Jiecheng has hands-on internship evidence for via the Parkdale project.
+- SACP remains one of the most procedurally well-documented programs across all 7 schools (clear deadline, clear reference process, no GRE).
 - Dr. Jan Hare's CRC Tier 1 role gives Indigenous Education strong institutional weight at UBC specifically.
 
 ## 5. Risks or gaps
-- SACP MEd-stream pause for 2026-27 directly affects which entry point is viable — must be reconfirmed before relying on this program.
-- None of the 4 matched professors has a confirmed "currently accepting students" status — all flagged "Needs verification" due to 403-blocked profile pages.
-- No verified ECE-leadership/curriculum-design faculty match, despite ECE being a named program.
+- No professor among the 5 has a confirmed "currently accepting students" status — all flagged "Needs Verification" due to 403-blocked profile pages.
+- No confirmed Inclusive Education match this round, despite it being one of the 5 target categories.
+- SACP MEd-stream pause for 2026-27 directly affects which entry point is viable for the Kassan/Ford counselling-psychology angle — must be reconfirmed before relying on this program.
 - Dr. Hare's senior leadership role (Associate Dean) may reduce her direct supervision capacity.
+- Dr. Keenan's research is theoretical/qualitative rather than applied resource-curation, so his fit with Jiecheng's project-based experience is conceptual, not a literal project match.
+- Dr. Berger holds a Teaching-stream appointment — Needs Verification whether this affects her eligibility to supervise thesis-based graduate students.
 
 ## 6. Missing official information
 - SACP: program-specific GPA and language-score minimums (currently only UBC graduate-wide defaults are known); funding/scholarship details.
 - ECE program: language score (if different from UBC graduate-wide minimum), GRE status, SOP requirement, deadline, funding.
-- All 4 professors: current accepting-students status; exact recent publication titles for Hare and Cannon.
+- All 5 professors: current accepting-students status; several recent publication titles (Hare, Ford post-2022, Keenan's full list, Kassan's full list).
 
 ## 7. Recommended next action
 - Manually open ecps.educ.ubc.ca/sacp/application-info/ to confirm whether the MEd-stream pause is still in effect for the cycle Jiecheng is targeting.
-- Email or check "accepting students" status directly with Ford, Kassan, Hare, and Cannon before treating any of them as a likely supervisor.
-- Manually verify ECE program's deadline and funding info, since none was found via WebSearch snippets.
+- Check "accepting students" status directly with Berger, Ford, Keenan, Hare, and Kassan (via their official pages, not by contacting them directly) before treating any of them as a likely supervisor.
+- Manually verify the ECE program's deadline and funding info, since none was found via WebSearch snippets.
+- If Inclusive Education becomes a higher priority later, revisit Dr. Joanna Cannon with a deeper, targeted search pass.
 
 ## 8. Date checked
 2026-06-25
