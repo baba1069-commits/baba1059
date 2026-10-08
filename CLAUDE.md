@@ -121,3 +121,25 @@ Heinz et al. (NM use/preferences/constraints = "Heinz, Bell"); Zamanbin et al. (
 Swedish preschool leaders); Miles et al. (2026, scoping review of access strategies).
 Open: ResearchRabbit labels both Heinz papers 2024 (text cites 2025); Grest (2025) is in ResearchRabbit but not Zotero.
 Fakhari 2023 and 2025 are two different works.
+
+## Source-verified facts (PDFs read 2026-10-08)
+
+- Burns et al. (2025), ECRQ 73, 69-81: p. 73 = 18.49% aware of implementation, 39.08% wrong/limited/no info (n = 1,341, ON/QC/BC/AB, general sample).
+  p. 78 = gender- and income-related differences in experience (not race). Burns does not link rapid expansion to the info gap.
+- Fakhari et al. (2025), IJCYFS 16(4), 76-98: p. 84 Table 2 = 33/38 programs had eligibility criteria (e.g., immigration status);
+  pp. 87-88 = licensing (CNC parents-on-site rule) and funding limits; 26 programs not provincially licensed.
+- Fakhari et al. (2023), IJQSHW 18, 2255176: Halifax; how newcomer families find AND use programs; social networks aid awareness/registration.
+- Heinz, Nava, et al. (2025), CYSR 169, 108090: general NM WIC-recruited sample, no immigrant focus. pp. 4-5 = six non-users applied
+  before the 2021 income-eligibility expansion and were told ineligible; p. 4 Table 2 = 35% (n = 12) of non-users unaware of subsidy.
+  It does NOT say they never learned the rules changed.
+- Heinz, Bell, et al. (2025), ECRQ 70, 393-403: p. 400 = newcomers missed care because unaware; systems hard to understand;
+  resettlement navigators did not always connect families; Spanish speakers unaware copays were waived.
+- Papakosma (2026), EECERJ online (printed page = PDF page - 1): p. 9 = interpreter shortage; p. 7 and abstract = main barriers lie
+  BEYOND ECEC's scope (housing, employment, legal status). Earlier draft claim "difficulty located inside institution" was wrong.
+- Miles et al. (2026), Prevention Science 27, 185-207: p. 186 = "Newcomer families, including refugees and immigrants"; "with young
+  children" is not in that sentence. US-focused services.
+- Zamanbin et al. (2025): no significant migrant-background effect on perceived accessibility; functional and digital literacy matter.
+- Schwartz et al. (2026): Israel. Finno-Velasquez et al. (2025), CYSR 179, 108626: n = 227, childcare centres as resource brokers.
+- Uploaded file "2026_Ajayi_..." is actually Ricciardi & Winsler (2024); "2026_Wikan_..." is Lund (Becoming a Recognisable Parent).
+- "navigat*" is used substantively in 6 papers (Loudova, Zamanbin, Fakhari 2023, Heinz Bell, Hilado, Finno-Velasquez) with different meanings.
+- None of the 17 is Toronto-specific.
