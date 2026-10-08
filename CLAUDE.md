@@ -107,3 +107,17 @@ Use only tools that are actually callable in the session. If a named skill is mi
 The ECL4111-specific `apa-page-fit` skill (font metrics, Word line/page simulation, python-docx APA layout,
 page-fit verification) is not present in this repository or container. Never overwrite or delete it where it exists.
 To use it here, copy it into `.claude/skills/apa-page-fit/` and commit.
+
+## Literature pool (from Zotero/ResearchRabbit screenshots, 2026-10-08; titles only, PDFs not read)
+
+Professor-recommended, analysed separately: Brown et al. (2020) scoping review; Coelho (2026); Nigro & Ward-Seidel (2024).
+Jiecheng's 17: Lund (Norway, refugee parents + ECE partnership); Lund (Norway, recognisable parent); Loudova Stralczynska et al.
+(Czech, Ukrainian refugee children); Ricciardi & Winsler (2024, US math course-taking - likely off-topic); Hilado et al. (2026,
+home visiting, resettled families); Schwartz et al. (2026, parents/teachers/intercultural mediators); Finno-Velasquez et al.
+(US-Mexico border, subsidy + service utilization); Fakhari et al. (2023, photovoice, access to services); Burns et al. (2025,
+CWELCC knowledge); Heinz et al. (users/non-users of subsidy = "Heinz, Nava"); Bhattashali et al. (2025, refugee families + ECEs);
+Fakhari et al. (2025, pan-Canadian settlement agency scan); Lee et al. (2026, WIC administrative burden, Missouri);
+Heinz et al. (NM use/preferences/constraints = "Heinz, Bell"); Zamanbin et al. (Dutch childcare allowances); Papakosma (2026,
+Swedish preschool leaders); Miles et al. (2026, scoping review of access strategies).
+Open: ResearchRabbit labels both Heinz papers 2024 (text cites 2025); Grest (2025) is in ResearchRabbit but not Zotero.
+Fakhari 2023 and 2025 are two different works.
