@@ -138,8 +138,14 @@ Fakhari 2023 and 2025 are two different works.
   BEYOND ECEC's scope (housing, employment, legal status). Earlier draft claim "difficulty located inside institution" was wrong.
 - Miles et al. (2026), Prevention Science 27, 185-207: p. 186 = "Newcomer families, including refugees and immigrants"; "with young
   children" is not in that sentence. US-focused services.
-- Zamanbin et al. (2025): no significant migrant-background effect on perceived accessibility; functional and digital literacy matter.
+- Zamanbin et al. (2026), Soc Policy Adm 60, 86-99 (p. 94): no significant migrant-background effect on perceived accessibility; functional and digital literacy matter.
 - Schwartz et al. (2026): Israel. Finno-Velasquez et al. (2025), CYSR 179, 108626: n = 227, childcare centres as resource brokers.
 - Uploaded file "2026_Ajayi_..." is actually Ricciardi & Winsler (2024); "2026_Wikan_..." is Lund (Becoming a Recognisable Parent).
 - "navigat*" is used substantively in 6 papers (Loudova, Zamanbin, Fakhari 2023, Heinz Bell, Hilado, Finno-Velasquez) with different meanings.
 - None of the 17 is Toronto-specific.
+- Theme 2/3 checks (2026-10-08): Loudova p. 8 (months of calls/visits; missed May enrolment) = printed page = PDF - 1;
+  Fakhari 2023 p. 8 (majority rely on in-person contact or flyers); Finno-Velasquez p. 8 results, p. 9 "virtually all" income-eligible,
+  cross-sectional with possible reverse causality (p. 10); Lee 2026 has no page numbers, cite Sub-theme 1.1-1.3;
+  Lund 2024 p. 7 interpreters 3-4 times a year; Bhattashali pp. 173-174 interpreters; Schwartz pp. 10-11 (assistant, confidence,
+  belonging), p. 13 initiatives from community leaders, staff low expectations; Papakosma housing p. 7, segregation pp. 9-10;
+  Hilado p. 1975; Lund 2026 (Educ. Sci. 16, 1103) p. 13 formal access does not secure belonging.
