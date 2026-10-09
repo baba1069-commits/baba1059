@@ -149,3 +149,31 @@ Fakhari 2023 and 2025 are two different works.
   Lund 2024 p. 7 interpreters 3-4 times a year; Bhattashali pp. 173-174 interpreters; Schwartz pp. 10-11 (assistant, confidence,
   belonging), p. 13 initiatives from community leaders, staff low expectations; Papakosma housing p. 7, segregation pp. 9-10;
   Hilado p. 1975; Lund 2026 (Educ. Sci. 16, 1103) p. 13 formal access does not secure belonging.
+
+## Office hour with Shawnee, 2026-10-09 (overrides earlier theme candidates)
+
+- New thesis (typed by Shawnee): newcomer families' lack of a nuanced understanding of child care resources and services
+  limits their use of and benefit from them. Families may know services exist; the issue is not knowing how to use them to meet needs.
+- Themes set by Shawnee: (1) Newcomer Families Lack Nuanced Understanding of How to Utilize the Services;
+  (2) Newcomer Families Need Support to Utilize these Services (intermediaries: interpreters, navigators; "list three sources");
+  (3) reframe old "Parents' Views" as the need for more culturally responsive services.
+- Cut: policy-implementation framing, Fakhari 2025 licensing/funding sentence, Papakosma institutional paragraph, Zamanbin,
+  "parents evaluate" framing. Formal language only; name fewer countries; tie every theme to Canada/Ontario; body <= 5 pages.
+- Shawnee did NOT require replacing sources: "not mention the countries so explicitly ... focus on the main argument."
+- Workbook: deliverables/ECL4111_source_matrix_2026-10-09.xlsx (feedback, keep/delete per source, Canadian candidates).
+
+## Page checks added 2026-10-09
+
+- Heinz, Bell (printed = PDF + 392): p. 398 heard of subsidy but assumed not eligible; p. 400 newcomers "did not understand the
+  early childhood system", paperwork confusing even for volunteer navigators, most copays waived. 400% FPL / no waitlist is
+  Heinz, Nava p. 2, not Heinz, Bell: never merge the two under one "Heinz et al. (2025)".
+- Fakhari 2025 p. 90 culturally and linguistically diverse educators (culturally responsive environment); p. 91 LINC + child care
+  + interpretation collaboration helps clients understand the breadth of services.
+- Fakhari 2023 p. 10 families access information once they trust providers; trusted circles, preferred language.
+- Miles (printed = PDF + 184): p. 191 liaisons, native-language outreach; p. 193 68% of studies on program responsiveness
+  (interpreters, matched staff); 38 studies; includes Canadian Fakhari 2023, Jang 2020, Poureslami 2013.
+- Schwartz community-leader sentence is p. 13 (draft says p. 12). Loudová p. 7 neighbours, p. 8 NGOs and May enrolment.
+- Brown et al. (2020) = J. Childhood, Education & Society 1(2), 182-215, doi 10.37291/2717638X.20201249 (checked in Fakhari 2025
+  reference list; full text not read). Coelho (2026) not found. Nigro & Ward-Seidel (2024) is US rural, not newcomer.
+- Ajayi et al. (2026, JCS 51(1)): Black parents, Kingston and London ON; immigrant status of participants unverified; PDF not held.
+- Draft cites Ajayi, Bhattashali, Zamanbin without References entries; Lee and Statistics Canada are listed but uncited.
