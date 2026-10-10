@@ -177,3 +177,14 @@ Fakhari 2023 and 2025 are two different works.
   reference list; full text not read). Coelho (2026) not found. Nigro & Ward-Seidel (2024) is US rural, not newcomer.
 - Ajayi et al. (2026, JCS 51(1)): Black parents, Kingston and London ON; immigrant status of participants unverified; PDF not held.
 - Draft cites Ajayi, Bhattashali, Zamanbin without References entries; Lee and Statistics Canada are listed but uncited.
+
+## Cross-check of Phase 1C+/1D audits (2026-10-10)
+
+- Phase 1C+ PLAN B (7 Canada + 2 international + 4 policy): Burns, Fakhari 2023, Fakhari 2025, Kingsbury 2021, Massing 2020,
+  Benipal 2022, Ajayi 2026, Heinz Bell, Schwartz + CWELCC, A&I 2023, TCS 2025, HDLH 2014. Kingsbury/Massing/Benipal/Ajayi
+  full texts are NOT in this container; their page numbers come only from Phase 1C+. Massing 2020 metadata not confirmable by search.
+- Phase 1D corrections from PDFs: Loudová printed p. 10 "All respondents reported a positive climate and respectful attitude of
+  teachers" (positive half IS supported; Phase 1D A9 wrong). Loudová p. 8 gives no cause for missing May enrolment (do not use
+  for "did not understand"). Lund 2024 p. 7 "3-4 times a year" is one Syrian father (Mohamad). Burns 72.18% = 968/1,341 heard of
+  CWELCC; denominators of 18.49% and 39.08% not stated. Fakhari 2023 printed p. 1 defines newcomers (Canada's immigration categories).
+- TCS 2025 URL backgroundfile-256726.pdf is the 66-page plan per Phase 1C+ (earlier doubt withdrawn). CWELCC URL: use -2021.html.
