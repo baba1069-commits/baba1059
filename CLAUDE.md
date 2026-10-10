@@ -188,3 +188,13 @@ Fakhari 2023 and 2025 are two different works.
   for "did not understand"). Lund 2024 p. 7 "3-4 times a year" is one Syrian father (Mohamad). Burns 72.18% = 968/1,341 heard of
   CWELCC; denominators of 18.49% and 39.08% not stated. Fakhari 2023 printed p. 1 defines newcomers (Canada's immigration categories).
 - TCS 2025 URL backgroundfile-256726.pdf is the 66-page plan per Phase 1C+ (earlier doubt withdrawn). CWELCC URL: use -2021.html.
+
+## Plan B-R locked (2026-10-10, agreed with user)
+
+- Rule: Shawnee's main argument + Canadian/local grounding per theme + strongest mechanism evidence; "7+2" is an outcome, not a filter.
+- Theme 2 stays on intermediary support (Fakhari 2023, Fakhari 2025, Schwartz; Heinz Bell as contrast). Kingsbury goes to
+  Introduction + Conclusion as the actual-use anchor, not Theme 2. Miles dropped; newcomer definition from Fakhari 2023 p. 1.
+- Order: SAFE version (mechanical fixes only) first, then B-R on a copy. Ajayi, Massing 2020, Benipal, Kingsbury enter text only
+  after full-text verification. Primary studies must stay >= 8; fallback = Lund 2024 (PDF-verified).
+- If Benipal is Toronto/GTA, "none of the reviewed studies was conducted in Toronto" becomes false and must be rewritten.
+- Handoff spec: deliverables/ECL4111_PlanBR_Codex_Handoff_2026-10-10.md
