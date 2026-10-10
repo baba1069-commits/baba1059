@@ -157,8 +157,9 @@ Fakhari 2023 and 2025 are two different works.
 - Themes set by Shawnee: (1) Newcomer Families Lack Nuanced Understanding of How to Utilize the Services;
   (2) Newcomer Families Need Support to Utilize these Services (intermediaries: interpreters, navigators; "list three sources");
   (3) reframe old "Parents' Views" as the need for more culturally responsive services.
-- Cut: policy-implementation framing, Fakhari 2025 licensing/funding sentence, Papakosma institutional paragraph, Zamanbin,
-  "parents evaluate" framing. Formal language only; name fewer countries; tie every theme to Canada/Ontario; body <= 5 pages.
+- Cut by Shawnee (deleted live or said "doesn't connect"): policy-implementation framing, Fakhari 2025 licensing/funding sentence,
+  the settlement-agency licensing/funding paragraph, "parents evaluate" framing. She did NOT comment specifically on the Papakosma
+  institutional paragraph or Zamanbin (only the general "some information that doesn't connect", 00:32:43). Formal language only; name fewer countries; tie every theme to Canada/Ontario; body <= 5 pages.
 - Shawnee did NOT require replacing sources: "not mention the countries so explicitly ... focus on the main argument."
 - Workbook: deliverables/ECL4111_source_matrix_2026-10-09.xlsx (feedback, keep/delete per source, Canadian candidates).
 
@@ -198,3 +199,6 @@ Fakhari 2023 and 2025 are two different works.
   after full-text verification. Primary studies must stay >= 8; fallback = Lund 2024 (PDF-verified).
 - If Benipal is Toronto/GTA, "none of the reviewed studies was conducted in Toronto" becomes false and must be rewritten.
 - Handoff spec: deliverables/ECL4111_PlanBR_Codex_Handoff_2026-10-10.md
+
+- Chinese annotated translation of the professor-commented draft: deliverables/ECL4111_LitReview_Annotated_ZH_20261009.docx
+  (base file ...2610091053_3.docx = same text and comment anchors as the office-hours version). Green text = Jiecheng's, not Shawnee's.
